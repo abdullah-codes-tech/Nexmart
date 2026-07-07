@@ -48,19 +48,22 @@ This project was built to demonstrate practical, deployable full stack developme
 ---
 
 ## Project Structure
+
+```
 nexmart/
-├── frontend/          # Next.js application
+├── frontend/
 │   ├── src/
-│   │   ├── app/       # Pages and routes
-│   │   └── components # Reusable components
+│   │   ├── app/
+│   │   └── components/
 │   └── public/
-├── backend/           # .NET Web API
-│   ├── Controllers/   # API endpoints
-│   ├── Models/        # Database models
-│   ├── Data/          # DbContext
-│   ├── DTOs/          # Data transfer objects
-│   └── Migrations/    # Database migrations
+├── backend/
+│   ├── Controllers/
+│   ├── Models/
+│   ├── Data/
+│   ├── DTOs/
+│   └── Migrations/
 └── README.md
+```
 
 ---
 
