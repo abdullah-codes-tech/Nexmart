@@ -52,8 +52,8 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-bold mb-5 uppercase tracking-widest text-xs">Contact</h3>
             <ul className="space-y-3 text-sm">
-              <li className="flex items-center gap-2"><span>📧</span> support@nexmart.com</li>
-              <li className="flex items-center gap-2"><span>📞</span> +92 300 1234567</li>
+              <li className="flex items-center gap-2"><span>📧</span> abdullah5053806@gmail.com</li>
+              <li className="flex items-center gap-2"><span>📞</span> +92 312 5381350</li>
               <li className="flex items-center gap-2"><span>📍</span> Islamabad, Pakistan</li>
               <li className="flex items-center gap-2"><span>🕐</span> Mon - Sat: 9am - 6pm</li>
             </ul>
